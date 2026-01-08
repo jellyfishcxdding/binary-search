@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-long long A[100005]; 
+long long A[100005]; //need to put it here cuz it
 
 int main() {
     int n;
@@ -45,4 +45,5 @@ int main() {
     }
     
     return 0;
+
 }
