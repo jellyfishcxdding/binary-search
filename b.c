@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
+// #include <stdlib.h> (kebanyakan mikir jir)
 
 int binarySearch(int arr[],int left, int right, int target){
     int res = -1;
@@ -50,4 +50,5 @@ int main () {
 
 
     return 0;
+
 }
